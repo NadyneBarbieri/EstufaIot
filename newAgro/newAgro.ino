@@ -14,9 +14,9 @@
 
 ***************************************************/
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL2JbDDPn3_"
+#define BLYNK_TEMPLATE_ID "***"
 #define BLYNK_TEMPLATE_NAME "NewAgro"
-#define BLYNK_AUTH_TOKEN "IgxA1ctSG41kA3JuM7Ov2iD3PZRqGL4y"
+#define BLYNK_AUTH_TOKEN "***"
 
 #include <Ultrasonic.h>
 #include <WiFi.h>
@@ -24,8 +24,8 @@
 #include <BlynkSimpleEsp32.h>
 #include <DHT.h>
 
-char ssid[] = "NADYNE_2G";
-char pass[] = "Naoseiasenha";
+char ssid[] = "*******";
+char pass[] = "*********";
 
 //ATUADORES
 #define alerta 2
